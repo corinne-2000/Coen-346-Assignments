@@ -1,5 +1,3 @@
-package Assignment1;
-
 public class MergeSort implements Runnable {
 
     private int[] array;
